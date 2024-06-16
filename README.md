@@ -20,8 +20,6 @@ Get-AppxPackage *acg* | Remove-AppxPackage
 
 Get-AppxPackage *AV1VideoExtension* | Remove-AppxPackage
 
-Get-AppxPackage *calculator* | Remove-AppxPackage
-
 Get-AppxPackage *communications* | Remove-AppxPackage
 
 Get-AppxPackage *Microsoft.549981C3F5F10* | Remove-AppxPackage
@@ -98,6 +96,8 @@ Get-AppxPackage *xbox* | Remove-AppxPackage
 
 ```powershell
 Get-AppxPackage *camera* | Remove-AppxPackage
+
+Get-AppxPackage *calculator* | Remove-AppxPackage
 
 Get-AppxPackage *WindowsTerminal* | Remove-AppxPackage
 
