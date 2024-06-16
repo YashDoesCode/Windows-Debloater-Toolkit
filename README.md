@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # Uninstall Widgets
 
 ```powershell
