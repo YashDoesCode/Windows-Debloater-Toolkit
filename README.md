@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+
+![Screenshot 2024-06-17 024115](https://github.com/YashDoesCode/Windows-Debloater-Tools/assets/169293586/7d329a98-6bda-46b7-b521-1ae498e4f782)
 
 # Uninstall Widgets
 
