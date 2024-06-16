@@ -74,8 +74,6 @@ Get-AppxPackage *plex* | Remove-AppxPackage
 
 Get-AppxPackage *PowerAutomateDesktop* | Remove-AppxPackage
 
-Get-AppxPackage *ScreenSketch* | Remove-AppxPackage
-
 Get-AppxPackage *skypeapp* | Remove-AppxPackage
 
 Get-AppxPackage *MicrosoftStickyNotes* | Remove-AppxPackage
@@ -116,6 +114,8 @@ Get-AppxPackage *photos* | Remove-AppxPackage
 Get-AppxPackage -AllUsers -Name Microsoft.WindowsAlarms | Remove-AppxPackage
 
 Get-AppxPackage *MicrosoftEdge* | Remove-AppxPackage
+
+Get-AppxPackage *ScreenSketch* | Remove-AppxPackage
 
 Get AppxPackage Microsoft.MicrosoftEdge_41.16299.1004.0_netural__8wekyb3d8bbwe｜Remove-AppxPackage
 ```
