@@ -56,8 +56,6 @@ Get-AppxPackage *zunevideo* | Remove-AppxPackage
 
 Get-AppxPackage *bingnews* | Remove-AppxPackage
 
-Get-AppxPackage *WindowsNotepad* | Remove-AppxPackage
-
 Get-AppxPackage *onenote* | Remove-AppxPackage
 
 Get-AppxPackage *OneDriveSync* | Remove-AppxPackage
@@ -108,6 +106,8 @@ Get-AppxPackage *alarms* | Remove-AppxPackage
 Get-AppxPackage *windowsphone* | Remove-AppxPackage
 
 Get-AppxPackage *YourPhone* | Remove-AppxPackage
+
+Get-AppxPackage *WindowsNotepad* | Remove-AppxPacka
 
 Get-AppxPackage *photos* | Remove-AppxPackage
 
